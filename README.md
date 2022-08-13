@@ -16,6 +16,13 @@
 [![GoDoc](https://godoc.org/github.com/miguelmota/go-ethereum-hdwallet?status.svg)](https://godoc.org/github.com/miguelmota/go-ethereum-hdwallet)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 
+## divergencetech fork
+
+The original implementation is archived and marked as read-only, but required an
+updated dependency due to github.com/btcsuite/btcutil being merged into
+github.com/btcsuite/btcd. Other than dependencies and dependency management,
+this fork is identical to the original.
+
 ## Install
 
 ```bash
